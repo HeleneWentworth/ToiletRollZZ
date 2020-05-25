@@ -1,3 +1,27 @@
 [
-
+  {
+    "libraryIdentifier" : "6d7266b02772ef2b07b22e20849ca2f5",
+    "format" : "arObject",
+    "displayName" : "ToiletRoll.arobject"
+  },
+  {
+    "libraryIdentifier" : "d73c71874563e42a2ef9c1f74ed552fb",
+    "format" : "arObject",
+    "displayName" : "ToiletRollz.arobject"
+  },
+  {
+    "libraryIdentifier" : "26e770e1024fe2c7cbfad3a03c2b08b4",
+    "format" : "arObject",
+    "displayName" : "ToiletZZ.arobject"
+  },
+  {
+    "libraryIdentifier" : "d217e4340b857bb65cd8c83f687c79e3",
+    "format" : "arObject",
+    "displayName" : "ToiletR.arobject"
+  },
+  {
+    "libraryIdentifier" : "cd45879070e933151101aa7c81ce6f0c",
+    "format" : "arObject",
+    "displayName" : "Dove.arobject"
+  }
 ]
